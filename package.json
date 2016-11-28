@@ -1,0 +1,12 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/antonybritto/jenkins.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mocha": "^3.2.0",
+    "supertest": "^2.0.1"
+  }
+}
