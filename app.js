@@ -7,5 +7,7 @@ app.get('/', function (req, res) {
 });
  
 app.listen(process.env.PORT || 5000);
+
+console.log("server started");
  
 module.exports = app;
